@@ -11,16 +11,16 @@ I'm interested in all things design and development. Let's make something cool!
 
 <p align="center">
   <a href="mailto:johnletey@gmail.com">
-    <img src="./static/envelope.svg" alt="email" width="24">
+    <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/envelope.svg" alt="email" width="24">
   </a>
   <a href="https://www.linkedin.com/in/johnletey">
-    <img src="./static/linkedin.svg" alt="linkedin" width="24">
+    <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/linkedin.svg" alt="linkedin" width="24">
   </a>
   <a href="https://twitter.com/johnletey">
-    <img src="./static/twitter.svg" alt="twitter" width="24">
+    <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/twitter.svg" alt="twitter" width="24">
   </a>
   <a href="https://instagram.com/johnletey">
-    <img src="./static/instagram.svg" alt="instagram" width="24">
+    <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/instagram.svg" alt="instagram" width="24">
   </a>
 </p>
 
