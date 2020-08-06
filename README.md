@@ -9,7 +9,20 @@ I'm a student who currently lives in the UK :gb: I'm originally from the US :us:
 
 I'm interested in all things design and development. Let's make something cool!
 
-Send me an [email](mailto:johnletey@gmail.com).
+<p align="center">
+  <a href="mailto:johnletey@gmail.com">
+    <img src="./static/envelope.svg" alt="email" width="24">
+  </a>
+  <a href="https://www.linkedin.com/in/johnletey">
+    <img src="./static/linkedin.svg" alt="linkedin" width="24">
+  </a>
+  <a href="https://twitter.com/johnletey">
+    <img src="./static/twitter.svg" alt="twitter" width="24">
+  </a>
+  <a href="https://instagram.com/johnletey">
+    <img src="./static/instagram.svg" alt="instagram" width="24">
+  </a>
+</p>
 
 <!--
 **johnletey/johnletey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
