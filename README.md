@@ -2,9 +2,9 @@
 
 I'm a student who currently lives in the UK :gb: I'm originally from the US :us:
 
-- Core Team at [Verto](https://github.com/useverto).
+- Core Team at [Verto](https://verto.exchange/).
 - Contributor at [nest.land](https://nest.land/). Email: john@nest.land.
-- Co-Founder of [Learn Anything](https://learn-anything.xyz).
+- Co-Founder of [Learn Anything](https://learn-anything.xyz/).
 
 ### Let's talk!
 
