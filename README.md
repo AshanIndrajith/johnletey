@@ -14,14 +14,8 @@ I'm interested in all things design and development. Let's make something cool!
   <a href="mailto:johnletey@gmail.com">
     <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/envelope.svg" alt="email" width="28">
   </a>
-  <a href="https://www.linkedin.com/in/johnletey">
-    <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/linkedin.svg" alt="linkedin" width="28">
-  </a>
   <a href="https://twitter.com/johnletey">
     <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/twitter.svg" alt="twitter" width="28">
-  </a>
-  <a href="https://instagram.com/johnletey">
-    <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/instagram.svg" alt="instagram" width="28">
   </a>
 </p>
 
