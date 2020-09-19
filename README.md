@@ -1,3 +1,5 @@
+![](https://github.com/johnletey/johnletey/raw/master/media/bg.png)
+
 ### Hiya, I'm John :wave:
 
 I'm a student who currently lives in the UK :gb: I'm originally from the US :us:
