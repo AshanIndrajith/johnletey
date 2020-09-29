@@ -14,10 +14,10 @@ I'm interested in all things design and development. Let's make something cool!
 
 <p align="center">
   <a href="mailto:johnletey@gmail.com">
-    <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/envelope.svg" alt="email" width="28">
+    <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/envelope.png" alt="email" width="40">
   </a>
   <a href="https://twitter.com/johnletey">
-    <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/twitter.svg" alt="twitter" width="28">
+    <img src="https://raw.githubusercontent.com/johnletey/johnletey/master/static/twitter.png" alt="twitter" width="40">
   </a>
 </p>
 
