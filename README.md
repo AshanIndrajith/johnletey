@@ -5,7 +5,7 @@
 - CTO @ [th8ta](https://th8ta.org).
 - Co-Founder of [Verto](https://verto.exchange/).
 - Development Lead & Co-Founder of [ArVerify](https://github.com/ArVerify). Email: john@arverify.org.
-- Creator of [Sera](https://github.com/usesera). [COMING SOON]
+- Creator of [Sera](https://trysera.xyz).
 - Provisional Member of ARCA (Arweave Community Fund A).
 - Contributor at [nest.land](https://nest.land/). Email: john@nest.land.
 
