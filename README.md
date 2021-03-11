@@ -1,13 +1,14 @@
-<img src="https://github.com/johnletey/johnletey/raw/master/media/bg.png" align="right" width="200">
+<img src="https://github.com/johnletey/johnletey/raw/master/me.png" align="right" width="200">
 
 # Hiya, I'm John :wave:
 
 - CTO @ [th8ta](https://th8ta.org).
-- Co-Founder of [Verto](https://verto.exchange/).
-- Development Lead & Co-Founder of [ArVerify](https://github.com/ArVerify). Email: john@arverify.org.
+- Founder of [Verto](https://verto.exchange).
+- Founder of [KYVE](https://kyve.network).
+- Founder of [ArVerify](https://github.com/ArVerify).
 - Creator of [Sera](https://trysera.xyz).
 - Provisional Member of ARCA (Arweave Community Fund A).
-- Contributor at [nest.land](https://nest.land/). Email: john@nest.land.
+- Contributor at [nest.land](https://nest.land/).
 
 <!--
 **johnletey/johnletey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
